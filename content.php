@@ -7,7 +7,7 @@
                     <div class="row">
                         <div class="col-md-3 text-xs-center text-md-left text-nowrap">
                             <h1><i class="page-header-icon ion-ios-pulse-strong"></i>Dashboard</h1>
-                        </div>
+                        </div> 
                     </div>
                 </div>
                 <div class="col-md-4 text-xs-center text-md-left text-nowrap  form-inline p-t-1">
