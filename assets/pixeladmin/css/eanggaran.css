@@ -1,0 +1,268 @@
+/**
+ * for custom css eanggaran
+ */
+
+ .bg-clear{
+   background: transparent !important;
+   border: 0 !important;
+ }
+
+ .label-tahun-anggaran{
+     top: 16px !important;
+ }
+
+#loading-box-active{
+  display: none !important;
+}
+
+.mr-5{
+  margin-right: 5px !important;
+}
+.mb-25 {
+  margin-bottom: 25px !important;
+}
+
+.mb-20 {
+  margin-bottom: 20px !important;
+}
+
+.mb-15 {
+  margin-bottom: 15px !important;
+}
+
+.mb-10 {
+  margin-bottom: 10px !important;
+}
+
+.mb-5 {
+  margin-bottom: 5px !important;
+}
+
+.unit-tree-container,
+#hak-akses-container{
+  max-height:450px;
+  min-height: 250px;
+  overflow-y:scroll;
+}
+
+#hak-akses-container > h2.parent{
+  font-size: 14px;
+  margin: 10px;
+}
+
+#hak-akses-container > h2.parent b,
+#hak-akses-container > label.child b {
+  padding-left: 5px;
+}
+
+#hak-akses-container > label.child b {
+  font-weight: normal;
+}
+
+#hak-akses-container > label.child{
+  font-size: 12px;
+  padding: 0 0 0 25px;
+  margin: 0px;
+}
+
+.input-akses-group ul {
+  list-style-type: none;
+}
+
+.input-akses-group ul li h2 {
+  font-size: 16px;
+}
+.input-akses-group ul li h3 {
+  font-size: 14px;
+}
+.input-akses-group ul li h2,
+.input-akses-group ul li h3 {
+  margin: 0px;
+  padding:3px 0px;
+}
+.input-akses-group ul {
+  margin: 0px;
+  padding:0 20px;
+}
+
+.input-akses-group ul li {
+  margin: 0px;
+  padding: 3px 5px;
+}
+
+.form-control[readonly] {
+  background-color: #f7f7f7 !important;
+}
+
+.btn-fwn {
+  font-weight: normal !important;
+}
+
+#container_unitkerja {  
+  max-height:450px;
+  height: 450px;
+  overflow-y:scroll;
+}
+
+.btn-group-align-top{
+  vertical-align: top !important;
+}
+
+input[type=text]:read-only.datepicker {
+	padding-left: 10px !important;
+}
+
+/**
+ * custom panel untuk petunjuk
+ */
+
+.panel-petunjuk {
+  background-color: #ffffff;
+}
+.panel-petunjuk > .panel-heading {
+  border: 0px !important;
+  background: transparent;
+  margin-top: 20px;
+  padding-bottom: 0px;
+}
+.panel-petunjuk > .panel-heading > .panel-title:before{
+  font-family: FontAwesome;
+  padding-right:5px;
+  content: "\f059";
+}
+.panel-petunjuk > .panel-heading > .panel-title {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.panel-petunjuk > .panel-body{
+  padding-top: 10px;
+}
+
+/**
+ * end
+ */
+
+ .input-group .gvFloat,
+ .input-group .gvNum {
+  position: relative;
+  z-index: 2;
+  float: left;
+  width: 100%;
+  margin-bottom: 0;
+  display: table-cell;
+}
+
+ .input_mask,
+ .gvFloat,
+ .gvNum {
+  border: 1px solid #d6d6d6;
+  padding: 4px 12px;
+  width: 100%;
+ }
+
+ .input-group-inline {
+   display: inline-flex;
+ }
+
+ .form-control-clean{  
+    padding: 4px 12px; 
+    min-height: 32px;
+    font-weight: normal;
+    margin: 0;
+ }
+
+ .input-group .form-control-label {
+    position: relative;
+    z-index: 2;
+    float: left;
+    width: 100%;
+    margin-bottom: 0;
+    display: table-cell;
+ }
+ 
+ .form-control-label {
+  border: 1px solid #d6d6d6;
+  display: block;
+  padding: 4px 12px;
+  background-color: #fafafa;
+  min-height: 32px;
+  font-weight: normal;
+ }
+.form-control-keterangan {
+  font-weight: normal;
+  font-style: italic;
+  font-size: 12px;
+}
+
+.form-control-normal {
+  height: 31px;
+  padding: 4px 12px;
+  background-color: #fff;
+  border: 1px solid #d6d6d6;
+  border-radius: 2px;
+}
+
+/**
+ * class alert yang diturunkan dari sia element css 
+ * yang disesuaikan dengan bootsrtap 3.*
+ * menggunakan kode fontawesome 4.*
+ * penggunaannya bersama class alert bootstrap
+ * ex : <div class="alert notebox-done" > .... </div>
+ */
+
+ /* .notebox-warning:before{
+  font-family: FontAwesome;
+  padding-right:5px;
+  content: "\f057";
+} */
+
+.notebox-warning{
+  color: #b05b59;
+  border-color: #e0b4b4;
+  background-color: #fff6f6;
+}
+
+/* .notebox-done:before{
+  font-family: FontAwesome;
+  padding-right:5px;
+  content: "\f058";
+} */
+
+.notebox-done{
+  color: #6f976d;
+  border-color: #a3c293;
+  background-color: #fcfff5;
+}
+
+/* .notebox-alert:before{
+  font-family: FontAwesome;
+  padding-right:5px;
+  content: "\f06a";
+} */
+
+.notebox-alert {
+  color: #8d7955;
+  border-color: #c9ba9b;
+  background-color: #fffaf3;
+}
+
+/* .notebox-info:before{
+  font-family: FontAwesome;
+  padding-right:5px;
+  content: "\f05a";
+} */
+
+.notebox-info {
+  color: #528d9e;
+  border-color: #a9d5de;
+  background-color: #f8ffff;
+}
+
+.btn-icon {
+  padding: 0 4px 4px 4px;
+  margin: 1px 0 1px 0;
+}
+/**
+ * end 
+ */
