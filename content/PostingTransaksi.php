@@ -1,4 +1,6 @@
-<div class="subcontent-element" id="subcontent-element">
+   
+<div class="px-content" id="content" style="padding-bottom: 103px;">  
+      <div class="subcontent-element" id="subcontent-element">
    <!-- FormHelper Content BEGIN -->
       
 
@@ -445,4 +447,6 @@ function tanggal_posting_date_change() {
    <!-- FormHelper Content END-->
    
 <script>if(window.ButtonAccess){ var ba = new ButtonAccess(""); ba.removeButton();}
-			</script></div>
+			</script></div>  
+      
+   </div>
