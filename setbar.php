@@ -16,13 +16,13 @@
 			<ul class="px-nav-dropdown-menu">
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=user&sub=group&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/grup.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Grup</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=user&sub=user&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/pengguna.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Pengguna</span>
 					</a>
 				</li>
@@ -42,25 +42,25 @@
 			<ul class="px-nav-dropdown-menu">
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=finansi_coa_laba_rugi&sub=AddCoaLabaRugi&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/settingcoalabarugi.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Setting CoA Laba Rugi</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=tahun_pembukuan&sub=TahunPembukuan&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/tahunpembukuan.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Tahun Pembukuan</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=renstra&sub=renstra&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/renstra.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Renstra</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=periode_tahun&sub=periodeTahun&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/periodeanggaran.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Periode Anggaran</span>
 					</a>
 				</li>
@@ -81,13 +81,13 @@
 			<ul class="px-nav-dropdown-menu">
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=tipeunit&sub=tipeunit&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/tipeunitkerja.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Tipe Unit Kerja</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=unitkerja_tree&sub=unitkerja&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/unitkerjatree.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Unit Kerja Tree</span>
 					</a>
 				</li>
@@ -108,43 +108,43 @@
 			<ul class="px-nav-dropdown-menu">
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=finansi_mata_anggaran&sub=tabsMataAnggaran&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/mataanggaran.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Mata Anggaran</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=satuan_komponen&sub=SatuanKomponen&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/satuan.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Satuan</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=rkakl_sumber_dana&sub=RkaklSumberDana&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/sumberdana.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Sumber Dana</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=komponen&sub=Komponen&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/standarbiaya.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Standar Biaya</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=kode_penerimaan&sub=KodePenerimaan&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/pospenerima.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Pos Penerimaan</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=finansi_referensi&sub=ProgramKegiatan&act=View&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/programkegiatan.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Program Kegiatan</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=copy_program_kegiatan&sub=copyProgramKegiatan&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/copyprogramkegiatan.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Copy Program Kegiatan</span>
 					</a>
 				</li>
@@ -165,19 +165,19 @@
 			<ul class="px-nav-dropdown-menu">
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/coa.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">CoA</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=skenario&sub=inputSkenario&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/skenario.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Skenario</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=kelompok_laporan&sub=KlpLaporan&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/kelompoklaporan.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Kelompok Laporan</span>
 					</a>
 				</li>
@@ -198,19 +198,19 @@
 			<ul class="px-nav-dropdown-menu">
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=rencana_penerimaan&sub=RencanaPenerimaan&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/pengajuan.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Pengajuan</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=approval_rencana_penerimaan&sub=RencanaPenerimaan&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/persetujuan.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Persetujuan</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=pembalik_approval_penerimaan&sub=rencanaPenerimaan&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/pembatalan.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Pembatalan</span>
 					</a>
 				</li>
@@ -231,49 +231,49 @@
 			<ul class="px-nav-dropdown-menu">
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=rencana_kegiatan_pengeluaran&sub=rencanaPengeluaran&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/rencanaanggaran.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Rencana Anggaran</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=approval&sub=approval&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/ara.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Approval Rencana Anggaran</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=pembalik_approval&sub=PembalikApproval&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/unara.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Un-approval Rencana Anggaran</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=realisasi_pencairan_2&sub=realisasiPencairan&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/rencanapencairan.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Rencana Pencairan</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=approval_pencairan&sub=approvalPencairan&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/arp.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Approval Rencana Pencairan</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=pembalik_approval_pencairan&sub=pembalikApprovalPencairan&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/unrp.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Un-approval Rencana Pencairan</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=movement_anggaran&sub=movementAnggaran&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/relokasianggaran.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Relokasi Anggaran</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=history_apbnp&sub=HistoryApbnp&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/daftarra.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Daftar Relokasi Anggaran</span>
 					</a>
 				</li>
@@ -294,43 +294,43 @@
 			<ul class="px-nav-dropdown-menu">
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=finansi_account_payable&sub=AddAccountPayable&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/accountpayable.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Account Payable</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=finansi_jurnal_umk&sub=AddJurnalUmk&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/umk.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">UMK & Perjalanan Dinas</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=finansi_cash_advance&sub=AddCashAdvance&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/piumk.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Payment Instruction UMK & Perjalanan Dinas</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=finansi_transaksi_realisasi_penerimaan&sub=HTRealisasiPenerimaan&act=View&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/realisasipenerimaan.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Realisasi Penerimaan</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=transaksi_realisasi&sub=transaksi&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/paymentinstruction.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Payment Instruction</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=transaksi_spj_pertransaksi&sub=transaksi&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/transaksiarl.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Transaksi ARL</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=transaksi_realisasi_keuangan&sub=RealisasiKeuangan&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/realisasikeuangan.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Realisasi Keuangan</span>
 					</a>
 				</li>
@@ -351,25 +351,25 @@
 			<ul class="px-nav-dropdown-menu">
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=finansi_pettycash_coa&sub=PettyCashCoa&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/scpc.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Setting CoA Petty Cash</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=finansi_pettycash_usulan&sub=InputPettycashUsulan&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/pengajuanpettycash.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Pengajuan Petty Cash</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=finansi_pettycash_review&sub=PettycashReview&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/reviewpettycash.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Review Petty Cash</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=finansi_pettycash_approval&sub=PettycashApproval&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/persetujuancoppycas.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Persetujuan Petty Cash</span>
 					</a>
 				</li>
@@ -390,37 +390,37 @@
 			<ul class="px-nav-dropdown-menu">
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=jurnal_penerimaan&sub=inputJurnalPenerimaan&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/jurnalcasmasuk.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Jurnal Kas Masuk</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=finansi_jurnal_pengeluaran&sub=addJurnalPengeluaran&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/jurnalkaskeluar.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Jurnal Kas Keluar</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=jurnal_umum&sub=inputJurnalUmum&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/jurnalumum.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Jurnal Umum</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=jurnal_pettycash&sub=InputJurnalPettyCash&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/jurnalpettycash.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Jurnal Petty Cash</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=approval_jurnal&sub=approvalJurnal&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/approvaljurnal.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Approval Jurnal</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=jurnal&sub=jurnal&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/dtj.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Daftar Transaksi Jurnal</span>
 					</a>
 				</li>
@@ -441,7 +441,7 @@
 			<ul class="px-nav-dropdown-menu">
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=posting&sub=Posting&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/postingtransaksi.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Posting Transaksi</span>
 					</a>
 				</li>
@@ -462,61 +462,61 @@
 			<ul class="px-nav-dropdown-menu">
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=rincian_perhitungan_rencana_penerimaan&sub=rencanaPenerimaan&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/lrp.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Laporan Rencana Penerimaan</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=lap_rencana_penerimaan&sub=LapRencanaPenerimaan&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/lrpd.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Laporan Rencana Penerimaan Bulanan</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=lap_rekap_program&sub=lapRekapProgram&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/rekamprogram.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Rekap Program</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=lap_rekap_unitkerja&sub=rekapUnitKerja&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/ruk.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Rekap Unit Kerja</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=lap_rekap_anggaran_program&sub=lapRekapProgram&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/rap.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Rekap Anggaran Program</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=lap_rekap_anggaran_unitkerja&sub=rekapUnitKerja&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/rauk.php " class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Rekap Anggaran Unit Kerja</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=lap_rincian_pengeluaran_unit&sub=lapRincianPengeluaran&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/pok.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Petunjuk Operasional Kegiatan</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=rencana_pencairan_dana&sub=rencanaPencairanDana&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/rpd.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Rencana Pencairan Dana</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=lap_program_kegiatan&sub=LapProgramKegiatanParent&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/lpk.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Laporan Program Kegiatan</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=lap_pengadaan_rup&sub=LapPengadaanRup&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/lbp.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Laporan Belanja Pengadaan</span>
 					</a>
 				</li>
@@ -537,55 +537,55 @@
 			<ul class="px-nav-dropdown-menu">
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=lap_posisi_keuangan_sementara&sub=lapPosisiKeuangan&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/pks.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Posisi Keuangan Sementara</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=lap_posisi_keuangan&sub=lapPosisiKeuangan&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/posisikeuangan.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Posisi Keuangan</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=lap_alirankas&sub=LapAlirankas&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/aruskhas.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Arus Kas</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=lap_bukubesar&sub=LapBukubesar&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/bukubesar.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Buku Besar</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=lap_saldomaster&sub=LapSaldomaster&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/saldomaster.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Saldo Master</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=lap_aktivitas&sub=lapAktivitas&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/aktivitas.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Aktivitas</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=lap_transaksi_harian&sub=LapTransaksiHarian&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/transaksiharian.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Transaksi Harian</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=lap_transaksi&sub=LapTransaksi&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/transaksi.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Transaksi</span>
 					</a>
 				</li>
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=lap_neraca_lajur&sub=LapNeracaLajur&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/lnl.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Laporan Neraca Lajur</span>
 					</a>
 				</li>
@@ -606,7 +606,7 @@
 			<ul class="px-nav-dropdown-menu">
 
 				<li class="px-nav-item menu-click ">
-					<a href="/ekeuanganpts/index.php?mod=laporan_pajak&sub=laporanPajak&act=view&typ=html" class="xhr dest_subcontent-element">
+					<a href="content/rekonsilasipajak.php" class="xhr dest_subcontent-element">
 						<span class="px-nav-label">Rekonsiliasi Pajak</span>
 					</a>
 				</li>

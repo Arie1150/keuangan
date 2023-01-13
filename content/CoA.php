@@ -1,0 +1,183 @@
+<div class="px-content" id="content" style="padding-bottom: 103px;">  
+      <div class="subcontent-element" id="subcontent-element">
+   <!-- FormHelper Content BEGIN -->
+      
+
+   <!-- FormHelper Content BEGIN -->
+      
+<ol class="breadcrumb page-breadcrumb">
+    <li><a class="xhr dest_subcontent-element " href="/ekeuanganpts/index.php?mod=home&amp;sub=home&amp;act=view&amp;typ=html">Home</a></li>
+    
+    <li><a class="xhr dest_subcontent-element " href="/ekeuanganpts/index.php?mod=home&amp;sub=home&amp;act=view&amp;typ=html&amp;dmmid=195&amp;mid=195">Referensi Akuntansi</a></li>
+    
+    
+    <li><a class="xhr dest_subcontent-element active" href="localhost/keuangan/index.php?content=CoA&amp;sub=CoA&amp;act=view&amp;typ=php">CoA</a></li>
+    
+
+    
+</ol>
+
+   <!-- FormHelper Content END-->
+   
+<script>if(window.ButtonAccess){ var ba = new ButtonAccess(""); ba.removeButton();}
+			</script>
+
+   <!-- FormHelper Content BEGIN -->
+      
+<div class="page-header">
+	<h1>
+        <span class="text-muted font-weight-light">
+			<i class="page-header-icon "></i> CoA
+        </span>
+    </h1>
+</div>
+
+   <!-- FormHelper Content END-->
+   
+<script>if(window.ButtonAccess){ var ba = new ButtonAccess(""); ba.removeButton();}
+			</script>
+
+
+<div class="panel panel-default">
+   <div class="panel-body">
+      
+
+      <div class="btn-toolbar mb-15">       
+         <div class="btn-group pull-right">
+            
+            <a class="xhr dest_subcontent-element btn btn-flat btn-info btn-fwn mr-5" href="/ekeuanganpts/index.php?mod=coa&amp;sub=InputCoa&amp;act=view&amp;typ=html&amp;op=add" title="Tambah Chart Of Account" tabindex="2">
+               <i class="fa fa-plus-circle"></i> Tambah 
+            </a>
+            <a class="xhr dest_subcontent-element btn btn-flat btn-warning btn-fwn mr-5" href="" title="Reset Coa Kode Sistem" tabindex="2" style="display:none">
+               <i class="fa fa fa-refresh"></i>
+               Reset  
+               COA Kode Sistem 
+            </a>
+            <a href="/ekeuanganpts/index.php?mod=coa&amp;sub=coa&amp;act=view&amp;typ=xls" title="Export Excel" class="btn btn-flat btn-default btn-fwn mr-5">
+               <i class="fa fa-file-excel-o"></i>
+              Excel 
+           </a>
+            <a class="xhr dest_subcontent-element btn btn-flat btn-default" href="/ekeuanganpts/index.php?mod=coa&amp;sub=ListCoA&amp;act=view&amp;typ=html" title="Cari Chart Of Account" tabindex="2">
+                  <i class="fa fa-search"></i> Cari 
+            </a>
+         </div>
+      </div>
+      
+      
+      <div class="panel panel-default">
+           <div class="panel-heading">
+               <span class="panel-title">
+                  Bagan Perkiraan Akuntansi
+               </span>
+           </div>
+           <div class="panel-body">               
+               
+                     
+                     <div id="div_coa" name="div_coa" style="width:800px"><div class="dtree">
+<div class="dTreeNode"><img id="id0" src="./images/tree/line.gif" alt="">Daftar Rekening</div><div id="dd0" class="clip" style="display:block;"><div class="dTreeNode"><a href="javascript: d.o(1);"><img id="jd1" src="./images/tree/plus.gif" alt=""></a><img id="id1" src="./images/tree/page.gif" alt=""><a id="sd1" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=1" onclick="javascript: d.s(1);">1000000 [ASET]</a></div><div id="dd1" class="clip" style="display:none;"><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><a href="javascript: d.o(2);"><img id="jd2" src="./images/tree/plus.gif" alt=""></a><img id="id2" src="./images/tree/page.gif" alt=""><a id="sd2" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=6" onclick="javascript: d.s(2);">1100000 [AKTIVA LANCAR]</a></div><div id="dd2" class="clip" style="display:none;"><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><a href="javascript: d.o(3);"><img id="jd3" src="./images/tree/plus.gif" alt=""></a><img id="id3" src="./images/tree/page.gif" alt=""><a id="sd3" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=7" onclick="javascript: d.s(3);">1110000 [Kas dan Setara Kas]</a></div><div id="dd3" class="clip" style="display:none;"><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><a href="javascript: d.o(4);"><img id="jd4" src="./images/tree/plus.gif" alt=""></a><img id="id4" src="./images/tree/page.gif" alt=""><a id="sd4" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=8" onclick="javascript: d.s(4);">1110100 [Kas]</a></div><div id="dd4" class="clip" style="display:none;"><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/joinbottom.gif" alt=""><img id="id5" src="./images/tree/page.gif" alt=""><a id="sd5" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=49" onclick="javascript: d.s(5);">1110101 [Petty Cash]</a></div></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><a href="javascript: d.o(6);"><img id="jd6" src="./images/tree/plusbottom.gif" alt=""></a><img id="id6" src="./images/tree/page.gif" alt=""><a id="sd6" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=9" onclick="javascript: d.s(6);">1110200 [Bank]</a></div><div id="dd6" class="clip" style="display:none;"><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/empty.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id7" src="./images/tree/page.gif" alt=""><a id="sd7" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=10" onclick="javascript: d.s(7);">1110201 [Bank BNI]</a></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/empty.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id8" src="./images/tree/page.gif" alt=""><a id="sd8" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=27" onclick="javascript: d.s(8);">1110202 [Bank Mandiri]</a></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/empty.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id9" src="./images/tree/page.gif" alt=""><a id="sd9" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=28" onclick="javascript: d.s(9);">1110203 [Bank BTN]</a></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/empty.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id10" src="./images/tree/page.gif" alt=""><a id="sd10" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=40" onclick="javascript: d.s(10);">1110204 [Bank BRI]</a></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/empty.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id11" src="./images/tree/page.gif" alt=""><a id="sd11" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=45" onclick="javascript: d.s(11);">1110205 [Bank BSI]</a></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/empty.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id12" src="./images/tree/page.gif" alt=""><a id="sd12" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=46" onclick="javascript: d.s(12);">1110206 [Bank Panin]</a></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/empty.gif" alt=""><img src="./images/tree/joinbottom.gif" alt=""><img id="id13" src="./images/tree/page.gif" alt=""><a id="sd13" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=47" onclick="javascript: d.s(13);">1110207 [Bank BPD]</a></div></div></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id14" src="./images/tree/page.gif" alt=""><a id="sd14" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=20" onclick="javascript: d.s(14);">1120000 [Perlengkapan]</a></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id15" src="./images/tree/page.gif" alt=""><a id="sd15" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=50" onclick="javascript: d.s(15);">1130000 [Piutang]</a></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><a href="javascript: d.o(16);"><img id="jd16" src="./images/tree/plus.gif" alt=""></a><img id="id16" src="./images/tree/page.gif" alt=""><a id="sd16" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=51" onclick="javascript: d.s(16);">1140000 [Sewa dibayar dimuka]</a></div><div id="dd16" class="clip" style="display:none;"><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/joinbottom.gif" alt=""><img id="id25" src="./images/tree/page.gif" alt=""><a id="sd25" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=59" onclick="javascript: d.s(25);">1270000 [Tanah]</a></div></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/joinbottom.gif" alt=""><img id="id17" src="./images/tree/page.gif" alt=""><a id="sd17" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=71" onclick="javascript: d.s(17);">1150000 [Uang Muka Kerja]</a></div></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><a href="javascript: d.o(18);"><img id="jd18" src="./images/tree/plus.gif" alt=""></a><img id="id18" src="./images/tree/page.gif" alt=""><a id="sd18" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=52" onclick="javascript: d.s(18);">1200000 [AKTIVA TETAP]</a></div><div id="dd18" class="clip" style="display:none;"><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id19" src="./images/tree/page.gif" alt=""><a id="sd19" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=53" onclick="javascript: d.s(19);">1210000 [Peralatan]</a></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id20" src="./images/tree/page.gif" alt=""><a id="sd20" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=54" onclick="javascript: d.s(20);">1220000 [Akumulasi penyusutan peralatan]</a></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id21" src="./images/tree/page.gif" alt=""><a id="sd21" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=55" onclick="javascript: d.s(21);">1230000 [Kendaraan]</a></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id22" src="./images/tree/page.gif" alt=""><a id="sd22" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=56" onclick="javascript: d.s(22);">1240000 [Akumulasi penyusutan kendaraan]</a></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id23" src="./images/tree/page.gif" alt=""><a id="sd23" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=57" onclick="javascript: d.s(23);">1250000 [Gedung]</a></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/joinbottom.gif" alt=""><img id="id24" src="./images/tree/page.gif" alt=""><a id="sd24" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=58" onclick="javascript: d.s(24);">1260000 [Akumulasi penyusutan gedung]</a></div></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><a href="javascript: d.o(26);"><img id="jd26" src="./images/tree/plusbottom.gif" alt=""></a><img id="id26" src="./images/tree/page.gif" alt=""><a id="sd26" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=66" onclick="javascript: d.s(26);">1300000 [AKTIVA LAIN-LAIN]</a></div><div id="dd26" class="clip" style="display:none;"><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/empty.gif" alt=""><img src="./images/tree/joinbottom.gif" alt=""><img id="id27" src="./images/tree/page.gif" alt=""><a id="sd27" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=67" onclick="javascript: d.s(27);">1310000 [Peralatan Bekas]</a></div></div></div><div class="dTreeNode"><a href="javascript: d.o(28);"><img id="jd28" src="./images/tree/plus.gif" alt=""></a><img id="id28" src="./images/tree/page.gif" alt=""><a id="sd28" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=2" onclick="javascript: d.s(28);">2000000 [LIABILITAS]</a></div><div id="dd28" class="clip" style="display:none;"><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id29" src="./images/tree/page.gif" alt=""><a id="sd29" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=19" onclick="javascript: d.s(29);">2100000 [Utang Usaha]</a></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id30" src="./images/tree/page.gif" alt=""><a id="sd30" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=23" onclick="javascript: d.s(30);">2200000 [Utang Bank]</a></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id31" src="./images/tree/page.gif" alt=""><a id="sd31" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=69" onclick="javascript: d.s(31);">2300000 [Utang Gaji]</a></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/joinbottom.gif" alt=""><img id="id32" src="./images/tree/page.gif" alt=""><a id="sd32" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=70" onclick="javascript: d.s(32);">2400000 [Utang Bunga]</a></div></div><div class="dTreeNode"><a href="javascript: d.o(33);"><img id="jd33" src="./images/tree/plus.gif" alt=""></a><img id="id33" src="./images/tree/page.gif" alt=""><a id="sd33" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=3" onclick="javascript: d.s(33);">3000000 [ASET NETO]</a></div><div id="dd33" class="clip" style="display:none;"><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><a href="javascript: d.o(34);"><img id="jd34" src="./images/tree/plus.gif" alt=""></a><img id="id34" src="./images/tree/page.gif" alt=""><a id="sd34" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=17" onclick="javascript: d.s(34);">3100000 [ASET NETO TIDAK TERIKAT]</a></div><div id="dd34" class="clip" style="display:none;"><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id35" src="./images/tree/page.gif" alt=""><a id="sd35" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=18" onclick="javascript: d.s(35);">3101000 [Aset Neto Tidak Terikat Tahun Berjalan]</a></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/joinbottom.gif" alt=""><img id="id36" src="./images/tree/page.gif" alt=""><a id="sd36" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=48" onclick="javascript: d.s(36);">3102000 [Aset Neto Tidak Terikat Awal Tahun]</a></div></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id37" src="./images/tree/page.gif" alt=""><a id="sd37" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=21" onclick="javascript: d.s(37);">3200000 [ASET NETO TERIKAT TEMPORER]</a></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/joinbottom.gif" alt=""><img id="id38" src="./images/tree/page.gif" alt=""><a id="sd38" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=22" onclick="javascript: d.s(38);">3300000 [ASET NETO TERIKAT PERMANEN]</a></div></div><div class="dTreeNode"><a href="javascript: d.o(39);"><img id="jd39" src="./images/tree/plus.gif" alt=""></a><img id="id39" src="./images/tree/page.gif" alt=""><a id="sd39" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=4" onclick="javascript: d.s(39);">4000000 [PENDAPATAN]</a></div><div id="dd39" class="clip" style="display:none;"><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><a href="javascript: d.o(40);"><img id="jd40" src="./images/tree/plus.gif" alt=""></a><img id="id40" src="./images/tree/page.gif" alt=""><a id="sd40" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=24" onclick="javascript: d.s(40);">4100000 [PENDAPATAN MAHASISWA]</a></div><div id="dd40" class="clip" style="display:none;"><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id41" src="./images/tree/page.gif" alt=""><a id="sd41" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=25" onclick="javascript: d.s(41);">4101000 [Penerimaan SPP Mahasiswa]</a></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id42" src="./images/tree/page.gif" alt=""><a id="sd42" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=35" onclick="javascript: d.s(42);">4102000 [Penerimaan Kunjungan Industri Mahasiswa]</a></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id43" src="./images/tree/page.gif" alt=""><a id="sd43" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=37" onclick="javascript: d.s(43);">4103000 [Penerimaan Wisuda Mahasiswa]</a></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id44" src="./images/tree/page.gif" alt=""><a id="sd44" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=42" onclick="javascript: d.s(44);">4104000 [Penerimaan Kegiatan Talenta Mahasiswa]</a></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/joinbottom.gif" alt=""><img id="id45" src="./images/tree/page.gif" alt=""><a id="sd45" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=44" onclick="javascript: d.s(45);">4105000 [Penerimaan Mahasiswa Lainnya]</a></div></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><a href="javascript: d.o(46);"><img id="jd46" src="./images/tree/plusbottom.gif" alt=""></a><img id="id46" src="./images/tree/page.gif" alt=""><a id="sd46" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=29" onclick="javascript: d.s(46);">4200000 [PENDAPATAN NON MAHASISWA]</a></div><div id="dd46" class="clip" style="display:none;"><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/empty.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id47" src="./images/tree/page.gif" alt=""><a id="sd47" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=30" onclick="javascript: d.s(47);">4201000 [Pendapatan Penerimaan Mahasiswa Baru]</a></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/empty.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id48" src="./images/tree/page.gif" alt=""><a id="sd48" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=31" onclick="javascript: d.s(48);">4202000 [Pendapatan Kegiatan Kemahasiswaan]</a></div><div class="dTreeNode"><img src="./images/tree/line.gif" alt=""><img src="./images/tree/empty.gif" alt=""><img src="./images/tree/joinbottom.gif" alt=""><img id="id49" src="./images/tree/page.gif" alt=""><a id="sd49" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=39" onclick="javascript: d.s(49);">4203000 [Pendapatan Sewa]</a></div></div></div><div class="dTreeNode"><a href="javascript: d.o(50);"><img id="jd50" src="./images/tree/plusbottom.gif" alt=""></a><img id="id50" src="./images/tree/page.gif" alt=""><a id="sd50" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=5" onclick="javascript: d.s(50);">5000000 [BEBAN]</a></div><div id="dd50" class="clip" style="display:none;"><div class="dTreeNode"><img src="./images/tree/empty.gif" alt=""><a href="javascript: d.o(51);"><img id="jd51" src="./images/tree/plus.gif" alt=""></a><img id="id51" src="./images/tree/page.gif" alt=""><a id="sd51" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=11" onclick="javascript: d.s(51);">5100000 [Belanja Pegawai]</a></div><div id="dd51" class="clip" style="display:none;"><div class="dTreeNode"><img src="./images/tree/empty.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/joinbottom.gif" alt=""><img id="id52" src="./images/tree/page.gif" alt=""><a id="sd52" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=26" onclick="javascript: d.s(52);">5100001 [Belanja Premi Asuransi]</a></div></div><div class="dTreeNode"><img src="./images/tree/empty.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id53" src="./images/tree/page.gif" alt=""><a id="sd53" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=12" onclick="javascript: d.s(53);">5200000 [Belanja Barang]</a></div><div class="dTreeNode"><img src="./images/tree/empty.gif" alt=""><a href="javascript: d.o(54);"><img id="jd54" src="./images/tree/plus.gif" alt=""></a><img id="id54" src="./images/tree/page.gif" alt=""><a id="sd54" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=13" onclick="javascript: d.s(54);">5300000 [Belanja Kemahasiswaan]</a></div><div id="dd54" class="clip" style="display:none;"><div class="dTreeNode"><img src="./images/tree/empty.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id55" src="./images/tree/page.gif" alt=""><a id="sd55" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=16" onclick="javascript: d.s(55);">5300001 [Biaya Akomodasi Mahasiswa]</a></div><div class="dTreeNode"><img src="./images/tree/empty.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id56" src="./images/tree/page.gif" alt=""><a id="sd56" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=36" onclick="javascript: d.s(56);">5300002 [Biaya Kunjungan Indutri Mahasiswa]</a></div><div class="dTreeNode"><img src="./images/tree/empty.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id57" src="./images/tree/page.gif" alt=""><a id="sd57" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=38" onclick="javascript: d.s(57);">5300003 [Biaya Wisuda Mahasiswa]</a></div><div class="dTreeNode"><img src="./images/tree/empty.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id58" src="./images/tree/page.gif" alt=""><a id="sd58" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=41" onclick="javascript: d.s(58);">5300004 [Biaya Lomba]</a></div><div class="dTreeNode"><img src="./images/tree/empty.gif" alt=""><img src="./images/tree/line.gif" alt=""><img src="./images/tree/joinbottom.gif" alt=""><img id="id59" src="./images/tree/page.gif" alt=""><a id="sd59" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=43" onclick="javascript: d.s(59);">5300005 [Biaya Seminar]</a></div></div><div class="dTreeNode"><img src="./images/tree/empty.gif" alt=""><a href="javascript: d.o(60);"><img id="jd60" src="./images/tree/plusbottom.gif" alt=""></a><img id="id60" src="./images/tree/page.gif" alt=""><a id="sd60" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=32" onclick="javascript: d.s(60);">5400000 [Belanja Non-Kemahasiswaan]</a></div><div id="dd60" class="clip" style="display:none;"><div class="dTreeNode"><img src="./images/tree/empty.gif" alt=""><img src="./images/tree/empty.gif" alt=""><img src="./images/tree/join.gif" alt=""><img id="id61" src="./images/tree/page.gif" alt=""><a id="sd61" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=33" onclick="javascript: d.s(61);">5400001 [Biaya Penerimaan Mahasiswa Baru]</a></div><div class="dTreeNode"><img src="./images/tree/empty.gif" alt=""><img src="./images/tree/empty.gif" alt=""><img src="./images/tree/joinbottom.gif" alt=""><img id="id62" src="./images/tree/page.gif" alt=""><a id="sd62" class="node" href="/ekeuanganpts/index.php?mod=coa&amp;sub=Coa&amp;act=view&amp;typ=html&amp;coaid=34" onclick="javascript: d.s(62);">5400002 [Biaya Kegiatan Kemahasiswaan]</a></div></div></div></div></div></div>
+                     <script type="text/javascript">
+         d = new dTree('d');
+         d.add(0,-1,'Daftar Rekening');
+d.add(1,0,'1000000 [ASET]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=1');
+d.add(6,1,'1100000 [AKTIVA LANCAR]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=6');
+d.add(7,6,'1110000 [Kas dan Setara Kas]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=7');
+d.add(8,7,'1110100 [Kas]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=8');
+d.add(49,8,'1110101 [Petty Cash]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=49');
+d.add(9,7,'1110200 [Bank]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=9');
+d.add(10,9,'1110201 [Bank BNI]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=10');
+d.add(27,9,'1110202 [Bank Mandiri]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=27');
+d.add(28,9,'1110203 [Bank BTN]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=28');
+d.add(40,9,'1110204 [Bank BRI]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=40');
+d.add(45,9,'1110205 [Bank BSI]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=45');
+d.add(46,9,'1110206 [Bank Panin]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=46');
+d.add(47,9,'1110207 [Bank BPD]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=47');
+d.add(20,6,'1120000 [Perlengkapan]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=20');
+d.add(50,6,'1130000 [Piutang]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=50');
+d.add(51,6,'1140000 [Sewa dibayar dimuka]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=51');
+d.add(71,6,'1150000 [Uang Muka Kerja]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=71');
+d.add(52,1,'1200000 [AKTIVA TETAP]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=52');
+d.add(53,52,'1210000 [Peralatan]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=53');
+d.add(54,52,'1220000 [Akumulasi penyusutan peralatan]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=54');
+d.add(55,52,'1230000 [Kendaraan]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=55');
+d.add(56,52,'1240000 [Akumulasi penyusutan kendaraan]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=56');
+d.add(57,52,'1250000 [Gedung]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=57');
+d.add(58,52,'1260000 [Akumulasi penyusutan gedung]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=58');
+d.add(59,51,'1270000 [Tanah]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=59');
+d.add(66,1,'1300000 [AKTIVA LAIN-LAIN]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=66');
+d.add(67,66,'1310000 [Peralatan Bekas]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=67');
+d.add(2,0,'2000000 [LIABILITAS]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=2');
+d.add(19,2,'2100000 [Utang Usaha]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=19');
+d.add(23,2,'2200000 [Utang Bank]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=23');
+d.add(69,2,'2300000 [Utang Gaji]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=69');
+d.add(70,2,'2400000 [Utang Bunga]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=70');
+d.add(3,0,'3000000 [ASET NETO]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=3');
+d.add(17,3,'3100000 [ASET NETO TIDAK TERIKAT]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=17');
+d.add(18,17,'3101000 [Aset Neto Tidak Terikat Tahun Berjalan]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=18');
+d.add(48,17,'3102000 [Aset Neto Tidak Terikat Awal Tahun]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=48');
+d.add(21,3,'3200000 [ASET NETO TERIKAT TEMPORER]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=21');
+d.add(22,3,'3300000 [ASET NETO TERIKAT PERMANEN]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=22');
+d.add(4,0,'4000000 [PENDAPATAN]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=4');
+d.add(24,4,'4100000 [PENDAPATAN MAHASISWA]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=24');
+d.add(25,24,'4101000 [Penerimaan SPP Mahasiswa]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=25');
+d.add(35,24,'4102000 [Penerimaan Kunjungan Industri Mahasiswa]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=35');
+d.add(37,24,'4103000 [Penerimaan Wisuda Mahasiswa]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=37');
+d.add(42,24,'4104000 [Penerimaan Kegiatan Talenta Mahasiswa]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=42');
+d.add(44,24,'4105000 [Penerimaan Mahasiswa Lainnya]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=44');
+d.add(29,4,'4200000 [PENDAPATAN NON MAHASISWA]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=29');
+d.add(30,29,'4201000 [Pendapatan Penerimaan Mahasiswa Baru]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=30');
+d.add(31,29,'4202000 [Pendapatan Kegiatan Kemahasiswaan]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=31');
+d.add(39,29,'4203000 [Pendapatan Sewa]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=39');
+d.add(5,0,'5000000 [BEBAN]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=5');
+d.add(11,5,'5100000 [Belanja Pegawai]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=11');
+d.add(26,11,'5100001 [Belanja Premi Asuransi]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=26');
+d.add(12,5,'5200000 [Belanja Barang]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=12');
+d.add(13,5,'5300000 [Belanja Kemahasiswaan]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=13');
+d.add(16,13,'5300001 [Biaya Akomodasi Mahasiswa]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=16');
+d.add(36,13,'5300002 [Biaya Kunjungan Indutri Mahasiswa]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=36');
+d.add(38,13,'5300003 [Biaya Wisuda Mahasiswa]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=38');
+d.add(41,13,'5300004 [Biaya Lomba]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=41');
+d.add(43,13,'5300005 [Biaya Seminar]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=43');
+d.add(32,5,'5400000 [Belanja Non-Kemahasiswaan]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=32');
+d.add(33,32,'5400001 [Biaya Penerimaan Mahasiswa Baru]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=33');
+d.add(34,32,'5400002 [Biaya Kegiatan Kemahasiswaan]','/ekeuanganpts/index.php?mod=coa&sub=Coa&act=view&typ=html&coaid=34');
+document.getElementById('div_coa').innerHTML =  d.toString(); </script>
+                     
+                  
+           </div>
+      </div>
+      
+   </div>
+</div>
+
+
+
+
+<script>
+var nodeList = document.getElementsBySelector('.dTreeNode a');
+if(nodeList != undefined){
+   for (var i = 0; i < nodeList.length; i++)
+   {
+      if (nodeList[i].className)
+      {
+         nodeList[i].onclick1 = nodeList[i].onclick;
+         xhr_content['.xhr'](nodeList[i]);
+         nodeList[i].onclick2 = nodeList[i].onclick;
+         nodeList[i].onclick = function (e)
+         {
+            if (this.className.indexOf('nodeSel') >= 0) return false;
+            this.onclick1();
+            $(this).addClass('dest_subcontent-element');
+            return this.onclick2();
+         }
+      }
+      else continue;
+   }
+}
+</script>
+
+   <!-- FormHelper Content END-->
+   
+<script>if(window.ButtonAccess){ var ba = new ButtonAccess(""); ba.removeButton();}
+			</script></div>  
+      
+   </div>
